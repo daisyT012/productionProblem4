@@ -1,0 +1,37 @@
+body{
+	background-color: #F0B27A;
+	color: white;
+}
+h1{
+	text-align: center;
+	color: #922B21;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+table {
+    	border-collapse: collapse;
+	width: 100%;
+	font-family: 'Poiret One', cursive;
+	font-size: 20px;
+}
+
+table, th, td {
+	border: 1px solid #922B21;
+}
+th{
+	height: 60px;
+	background-color: #D35400
+}
+tr:nth-child(even){
+	background-color: #EB984E;
+}
+footer{
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+
+}
+#pic{
+	float: left;
+	padding-left: 150px;
+}
